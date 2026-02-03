@@ -1,7 +1,4 @@
 
-Himashayani M <mondaddulahimashayani@gmail.com>
-12:03 PM (9 hours ago)
-to me
 
 pipeline {
     agent any
